@@ -30,3 +30,24 @@ p {
 a {
 	
 }
+
+/************
+*   Hero    *
+************/
+
+.hero {
+	background-color: #311B92;
+	color: #fff;
+	padding: 20px 0;
+	text-align: center;
+}
+
+/************
+*   Logo    *
+************/
+
+.logo {
+	font-size: 34px;
+	font-weight: bold;
+	text-transform: uppercase;
+}
